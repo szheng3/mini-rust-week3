@@ -15,6 +15,9 @@ lint:
 test:
 	cargo test --quiet
 
+bench:
+	cargo bench
+
 run:
 #	export LIBTORCH=/opt/homebrew/Cellar/pytorch/1.13.1                                                    2 ✘  18s  16:40:49
 #	export LD_LIBRARY_PATH=${LIBTORCH}/lib:$LD_LIBRARY_PATH
