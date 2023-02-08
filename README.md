@@ -36,7 +36,7 @@ pub fn fibonacci(n: u32) -> u32 {
 > Run `make run` in the terminal, it will launch a server.
 
 > Run `curl -v http://localhost:8000/api/health` to get the JSON response.
-> 
+
 > Run `make bench` in the terminal, it will run the benchmark test for fibonacci.
 
 ## Benchmark Results
