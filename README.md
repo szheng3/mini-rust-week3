@@ -37,7 +37,7 @@ pub fn fibonacci(n: u32) -> u32 {
 
 > Run `curl -v http://localhost:8000/api/health` to get the JSON response.
 > 
-> > Run `make bench` in the terminal, it will run the benchmark test for fibonacci.
+> Run `make bench` in the terminal, it will run the benchmark test for fibonacci.
 
 ## Benchmark Results
 ![Benchmark](./assets/fb.png)
